@@ -18,3 +18,4 @@ and see what this thing does to the user's PC.
 ## 4 - Where I can download it?
 You can download it from [this direct link](https://walliant.com/download/walliant.exe).
 Also the direct link is a way to easly bundle it into some installers.
+It's also on [download.com](https://download.com), and you can find its page [here](https://download.cnet.com/Walliant/3000-2336_4-78625906.html)
