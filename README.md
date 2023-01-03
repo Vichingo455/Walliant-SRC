@@ -1,7 +1,7 @@
-# Walliant Source Code
+# [Walliant](https://walliant.com) Source Code
 
-## 1 - What's Walliant?
-Walliant is a trojan. It's disguised as a legit wallpaper app and it was usually bundled in
+## 1 - What's [Walliant](https://walliant.com)?
+[Walliant](https://walliant.com) is a trojan. It's disguised as a legit wallpaper app and it was usually bundled in
 several installers. It uses several engines to earn money by probably publishing user's data.
 Also the installer most commonly runs completely silent, so the only way to discover it installed
 is looking into the tray icons.
