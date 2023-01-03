@@ -14,3 +14,7 @@ Basically you have to run the uninstaller program with settings or control panel
 I'm sharing the source code decompiled using dnSpy for analysis purpouses.
 If you are a C# expert, then you can quite easly understand the code
 and see what this thing does to the user's PC.
+
+## 4 - Where I can download it?
+You can download it from [this direct link](https://walliant.com/download/walliant.exe).
+Also the direct link is a way to easly bundle it into some installers.
